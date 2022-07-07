@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["login"],{b466:function(n,o,e){"use strict";e.r(o);var i={name:"login",mounted(){window.open("https://xanadu.aerowang.cn/admin/#/login","_blank"),this.$router.push("/index")}};e=e("0b56"),e=Object(e.a)(i,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);o.default=e.exports}}]);
